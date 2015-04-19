@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Newtonsoft.Json.6.0.8.nupkg" />
+    <None Include="SQLitePCL.raw_basic.0.7.3-vs2012.nupkg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
